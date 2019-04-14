@@ -32,10 +32,10 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
 
-  butttonText: {
+  buttonText: {
     fontWeight: "bold",
     fontSize: 16,
-    color: "#fff"
+    color: "#FFFFFF"
   },
 
 });
